@@ -108,10 +108,11 @@ else:
 
 
 ```
-## Sample Input and Output
-![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(45).png?raw=true)
-![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(46).png?raw=true)
-![output](
+##  Output
+Use a linear search method to match the item in a list.
+![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(45).png?raw=true) Find the element in a list using Binary Search(Iterative Method).
+![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(46).png?raw=true)Find the element in a list using Binary Search (recursive Method).
+![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(47).png?raw=true)
 
 
 
