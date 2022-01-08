@@ -110,7 +110,7 @@ else:
 ```
 ## Sample Input and Output
 ![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(45).png?raw=true)
-![output](
+![output](https://github.com/ragulmani936/Search-Algorithm/blob/main/Screenshot%20(46).png?raw=true)
 ![output](
 
 
